@@ -47,8 +47,4 @@ Contoh:
 os.Setenv("DATABASE_URL", "postgres://<username>:<password>@localhost:5432/<database_name>") // Ubah dengan credential database postgres di localhost.
 ```
 
-## Demo application
-
-kalian dapat mencobanya di [https://final-web-app.fly.dev](https://final-web-app.fly.dev)
-
-<!-- TODO: masih perlu dibuat -->
+THIS REPO IS STILL NEED TO FIX AND DEVELOP
